@@ -1,4 +1,4 @@
-! (https://imgur.com/8GMNZcH)
+![Пример изображения](https://github.com/StasFoster/Havaton_BRICKS2024/blob/mainCheck/Логотип%20Одним%20Целым.png?raw=true)
 
 # Название команды / The name of the team
 
