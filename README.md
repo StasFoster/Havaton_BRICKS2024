@@ -1,4 +1,4 @@
-![Пример изображения](https://github.com/StasFoster/Havaton_BRICKS2024/blob/mainCheck/Логотип%20Одним%20Целым.png?raw=true)
+![Изображение](https://github.com/StasFoster/Havaton_BRICKS2024/blob/mainCheck/Логотип%20Одним%20Целым.png?raw=true)
 
 # Название команды / The name of the team
 
@@ -10,17 +10,17 @@
 
 ## Состав команды / The team consist
 
-* **Станислав Шустов** / **Stanislav Shustov** (Капитан команды / Team leader).
+* **Шустов Станислав** / **Shustov Stanislav** (Капитан команды / Team leader).
 
-* **Станислав Сергеев** / **Stanislav Sergeev** (Дата Специалист / Data Specialist). 
+* **Сергеев Станислав** / **Sergeev Stanislav** (Дата Специалист / Data Specialist). 
 
 * **Бисаров Алексей** / **Bisarov Aleksey** (ИИ Специалист / AI Specialist).
 
 ## Описание участников / Description of the participants
 
-* **Станислав Шустов** - наш капитан команды. Его навыкам в сборке и программировании дронов можно только позавидовать. Он собрал нас вместе для участия в этом замечательном конкурсе, чтобы мы могли получить ценный опыт работы в команде. / Stanislav Shustov is our team captain. His skills in assembling and programming drones can only be envied. He brought us together to participate in this wonderful competition so that we could gain valuable team experience.
+* **Шустов Станислав** - наш капитан команды. Его навыкам в сборке и программировании дронов можно только позавидовать. Он собрал нас вместе для участия в этом замечательном конкурсе, чтобы мы могли получить ценный опыт работы в команде. / Shustov Stanislav is our team captain. His skills in assembling and programming drones can only be envied. He brought us together to participate in this wonderful competition so that we could gain valuable team experience.
 
-* **Станислав Сергеев** - специалист в машинном обучении нейронных сетей. В команде отвечает за подбор правильных данных для обучения нейросети, а также за правильную их интеграцию в код нейросети. / Stanislav Sergeev is a specialist in machine learning of neural networks. In the team, he is responsible for selecting the correct data for neural network training, as well as for their correct integration into the neural network code.
+* **Станислав Сергеев** - специалист в машинном обучении нейронных сетей. В команде отвечает за подбор правильных данных для обучения нейросети, а также за правильную их интеграцию в код нейросети. / Sergeev Stanislav is a specialist in machine learning of neural networks. In the team, he is responsible for selecting the correct data for neural network training, as well as for their correct integration into the neural network code.
 
 * **Бисаров Алексей** - специалист в сфере создания нейронных сетей. Он разбирается во всех тонкостях нейросетей, и может адаптировать их под разные задачи. / Bisarov Aleksey is a specialist in the field of creating neural networks. He understands all the intricacies of neural networks, and can adapt them to different tasks.
 
