@@ -1,4 +1,4 @@
-![Изображение](https://github.com/StasFoster/Havaton_BRICKS2024/blob/mainCheck/Логотип%20Одним%20Целым.png?raw=true)
+![Изображение](Элементы Интерфейса/Логотип Одним Целым.png)
 
 # Название команды / The name of the team
 
