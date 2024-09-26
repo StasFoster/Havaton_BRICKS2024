@@ -17,7 +17,7 @@
 
 Датасет мы собираем при помощи симулятора Gazebo в котором можно просимулировать различные ситуации и сценарии.
 
-![Gazebo]()
+![Gazebo](https://github.com/StasFoster/Havaton_BRICKS2024/blob/1cdce10ac089072ce90b7d85fd5d346be911bb11/%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-26%20204137.png)
 
 
 
